@@ -1,6 +1,7 @@
 {
   "name": "@workspace/mobile",
   "version": "0.0.0",
+  "description": "PixelPal - Your virtual pixel pet companion",
   "private": true,
   "main": "expo-router/entry",
   "scripts": {
