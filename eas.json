@@ -9,9 +9,9 @@
       }
     },
     "production": {
+      "node": "20",
       "android": {
-        "buildType": "app-bundle",
-        "node": "20"
+        "buildType": "app-bundle"
       }
     }
   }
