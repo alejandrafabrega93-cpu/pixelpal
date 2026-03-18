@@ -10,6 +10,8 @@
     },
     "production": {
       "node": "20.18.0",
+      "resourceClass": "medium",
+      "channel": "production",
       "android": {
         "buildType": "app-bundle",
         "gradleCommand": ":app:bundleRelease"
